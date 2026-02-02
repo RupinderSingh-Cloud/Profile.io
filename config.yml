@@ -1,8 +1,8 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 Title: [Rupinder Pal Singh]
-logo : images/me.jpg
+logo : /images/me.jpg
 Description: [An established leader offering chronicled success of nearly 21 years in all aspects of Account Management, Operational Excellence, Delivery Management, Data Migration and Program Management across - Securities Financing, Cash & Liquidity
 Management, Regulatory reporting, Mortgage Banking, Investment Banking domains; proven career in conceptualizing & implementing effective ideas / strategies which adds value to organization through inspiring leadership, rich experience &
 innovation excellence.]
